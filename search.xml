@@ -8,7 +8,7 @@
       <link href="/2023/01/05/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
       <url>/2023/01/05/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</url>
       
-        <content type="html"><![CDATA[<h1 id="2022年终总结"><a href="#2022年终总结" class="headerlink" title="2022年终总结"></a>2022年终总结</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="2022年终总结"><a href="#2022年终总结" class="headerlink" title="2022年终总结"></a>2022年终总结</h1><p>这个人很懒，什么都没有留下……（最近真的好忙，在写了）</p>]]></content>
       
       
       
@@ -31,17 +31,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -53,9 +42,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -67,6 +56,17 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
